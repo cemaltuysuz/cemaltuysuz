@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cemal Tüysüz</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-- 🔭 I’m currently working on **Freelancer**
-
 - 🌱 I’m currently learning **Xcode | Spring**
 
 - 👨‍💻 Some of my projects are available at [https://cemaltuysuz.com/portfolyo/](https://cemaltuysuz.com/portfolyo/)
