@@ -5,7 +5,10 @@
 
 - 👨‍💻 Some of my projects are available at [https://cemaltuysuz.com/portfolyo/](https://cemaltuysuz.com/portfolyo/)
 
-- 📝 I regularly write articles on [https://cemaltuysz.medium.com/](https://cemaltuysz.medium.com/)
+- 📝 I regularly write articles on :
+   -  [https://cemaltuysz.medium.com/](https://cemaltuysz.medium.com/)
+   -  [https://cemaltuysuz.com/blog/](https://cemaltuysuz.com/blog/)
+   -  [https://www.yazilimkoyu.org/profil/cemaltuysuz/paylasimlarim/](https://www.yazilimkoyu.org/profil/cemaltuysuz/paylasimlarim/)  
 
 - 📫 How to reach me **ctuysuz20@gmail.com**
 
