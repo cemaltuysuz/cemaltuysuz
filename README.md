@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cemal Tüysüz</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-- 🌱 I’m currently learning **IOS development | Backend development with Java**
-
-- 👨‍💻 Some of my projects are available at [https://cemaltuysuz.com/portfolyo/](https://cemaltuysuz.com/portfolyo/)
+- 🌱 I'm currently a trainee ios developer
 
 - 📝 I regularly write articles on :
    -  [https://cemaltuysz.medium.com/](https://cemaltuysz.medium.com/)
